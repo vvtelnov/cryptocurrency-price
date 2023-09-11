@@ -1,7 +1,7 @@
 # React Cryptocurrency Application
 
 To visit site, please click -> [click here](https://vvtelnov.github.io/cryptocurrency-price)
-or enter this url **https://vvtelnov.github.io/cryptocurrency-price**in search bar of your web-browser
+or enter this url **https://vvtelnov.github.io/cryptocurrency-price** in search bar of your web-browser
 
 The React Cryptocurrency Application is a user-friendly web application that allows users to track and analyze cryptocurrency prices and trends in real-time. Built using React, it provides a responsive and interactive interface for cryptocurrency enthusiasts and investors.
 
